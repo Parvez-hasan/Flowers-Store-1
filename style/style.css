@@ -1,0 +1,23 @@
+/** font link**/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/**color add**/
+.same-text-color{
+    color: rgba(0, 0, 0, 0.5);
+}
+.common-color{
+    color: rgb(233, 90, 8);
+}
+
+.bg-color{
+    background-color: rgb(233, 90, 8);
+}
+
+/**two font add in this site**/
+.inter-text{
+    font-family: "Inter", sans-serif;
+}
+.noto-serif{
+    font-family: "Noto Serif", serif;
+}
